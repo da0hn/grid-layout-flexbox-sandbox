@@ -4,12 +4,12 @@ Practice of CSS Grid Layout and Flexbox based on tutorial available in [YouTube]
 
 # Layout using Flexbox
 
-![Layout using Flexbox](flexbox-layout.png)
+![Layout using Flexbox](docs/flexbox-layout.png)
 
 # Layout using Grid
 
-![Layout using Grid type-1](layout-grid-1.png)
+![Layout using Grid type-1](docs/layout-grid-1.png)
 
-![Layout using Grid type-2](layout-grid-2.png)
+![Layout using Grid type-2](docs/layout-grid-2.png)
 
-![Layout using Grid type-3](layout-grid-3.png)
+![Layout using Grid type-3](docs/layout-grid-3.png)
